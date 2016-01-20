@@ -16,3 +16,4 @@ adding some text
 
 ## Instructions
 adding instructions
+## Copyright section
