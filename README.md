@@ -17,4 +17,5 @@ adding some text
 ## Instructions
 adding instructions
 ## Copyright section
+All rights reserved
 ## How to contribute
