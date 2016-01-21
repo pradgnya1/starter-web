@@ -9,6 +9,7 @@
 # THANKS
 
     <name>
+	Thanks to every student
 
 # TECHNOLOGY COLOPHON
 
